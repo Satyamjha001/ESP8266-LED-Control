@@ -37,7 +37,7 @@ This project demonstrates how to control an LED using an ESP8266 microcontroller
 
 2. Open the Project in Arduino IDE:
 
-   Open the main.ino file in Arduino IDE.
+   Open the Led_control.ino file in Arduino IDE.
 
 3. Install Required Libraries:
 
